@@ -16,8 +16,8 @@
     Node JS v14.15.0
     Node Package Manager
     Package(s): 
-      <a href="https://www.npmjs.com/package/bootstrap"> Bootstrap v5 </a>
-      <a href="https://www.npmjs.com/package/qrcode"> QRCode </a>
+      Bootstrap v5
+      QRCode
 ---
 > ###  Lisence: Apache
 ---
@@ -25,4 +25,4 @@
 ---
 > [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/codingdesk20)
 ---
-> [![](https://visitcount.itsvg.in/api?id=project-4&label=Project%20Visits&icon=3&pretty=true)](https://github.com/coding-desk20/netflix-ui)
+> [![](https://visitcount.itsvg.in/api?id=project-4&label=Project%20Visits&icon=3&pretty=true)](https://github.com/coding-desk20/fuel-pass)
