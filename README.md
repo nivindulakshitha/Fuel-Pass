@@ -10,7 +10,7 @@
 > | CSS       | 3       |
 ---
 > ### Demo
-> <video src="https://drive.google.com/uc?export=download&id=1S-PB9eAMlHssfwknCJE52qBNGnRFn_U2" width="200">
+> <img src="https://drive.google.com/uc?export=download&id=1jrfnEEHQbn3y1UwGkIkd81r1qEx1Lj8b" width="200">
 ---
 > ### Requirements: 
     Node JS v14.15.0
