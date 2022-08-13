@@ -1,0 +1,106 @@
+.label {
+    color: #757575;
+    font-size: 16px;
+    line-height: 22px;
+    font-weight: 600;
+    padding: 0px;
+    display: block;
+    text-align: left;
+}
+
+.label[require='true']::after {
+    content: ' *';
+    color: #ff4d4f;
+}
+
+.form-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    gap: 20px;
+    margin-bottom: 20px !important;
+}
+
+.label-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.label-group .label {
+    display: inline-block;
+    width: 50% !important;
+}
+
+.label-group .label:nth-child(2) {
+    padding-left: 10px;
+}
+
+.form-group .label {
+    display: inline;
+    margin-bottom: 5px !important;
+}
+
+input {
+    border-color: #a1a1a1;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    height: 40px;
+    color: #000;
+    box-shadow: none !important;
+}
+
+input:focus {
+    border-color: #000!important;
+    box-shadow: none!important;
+}
+
+button[data-toggle="dropdown"] {
+    min-width: 150px;
+    text-align: left;
+    box-shadow: none !important;
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+
+button[data-toggle="dropdown"]:active {
+    background-color: none !important;
+}
+
+.dropdown-menu a {
+    cursor: pointer;
+}
+
+.dropdown-menu a:active {
+    background-color: rgba(0, 0, 0, 0.2);
+}
+
+input[disabled] {
+    background-color: #f5f5f5;
+}
+
+::placeholder {
+    color: rgba(117, 117, 117, 0.5) !important;
+}
+
+#react_endpoint-2-1 > div:nth-child(4) > button {
+    width: -webkit-fill-available;
+}
+
+#flexCheckDefault {
+    height: auto !important;
+    outline: none;
+}
+
+#react_endpoint-2-1 > div.form-check > label {
+    font-size: small;
+    margin-top: 2px;
+}
+
+#react_endpoint-2-1 > div.form-check > label > a {
+    text-decoration: underline;
+}
