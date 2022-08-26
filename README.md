@@ -10,7 +10,7 @@
 > | CSS       | 3       |
 ---
 > ### Demo
-> <img src="https://drive.google.com/uc?export=download&id=1jrfnEEHQbn3y1UwGkIkd81r1qEx1Lj8b" width="200">
+> <img src="https://github.com/coding-desk20/coding-desk20/blob/main/images/Fuel%20Pass.png?raw=true" width="200">
 ---
 > ### Requirements: 
     Node JS v14.15.0
